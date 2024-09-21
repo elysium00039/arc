@@ -7,5 +7,3 @@ console.log('hello world!')
 ```
 
 > @namo amitābhāya tathāgatāya 南无阿弥多婆夜 哆他伽多夜
-
-

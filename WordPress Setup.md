@@ -1,7 +1,5 @@
 ### wordPress Deployment and Sync with Github
 
-
-
 [Step by step how to install wordpress in github to get free hosting - YouTube](https://www.youtube.com/watch?v=hYNrNEk2wcY)
 
 xampp -> apache, mysql -> create spawningpool_db
@@ -21,8 +19,6 @@ wp plugins -> import markdown
 upload and refresh post -> customizing homepage settings
 
 simply static -> re-generate static files -> github desktop -> commit&fetch
-
-
 
 next to do:
 
